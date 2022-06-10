@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "name": "http://MINGW64",
+            "request": "launch",
+            "url": "http://MINGW64"
+        }
+    ]
+}
